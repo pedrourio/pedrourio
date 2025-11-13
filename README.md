@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a Software Development student from UDESC Joinville<br><br>- 📚 I'm currently focusing on Ruby on Rails and web/mobile development<br>- ⚡ In my free time I like to learn new things</p>
+<p align="left">I'm a Software Development student from UDESC Joinville<br><br>- 📚 I'm currently focusing on Flutter and mobile development<br>- ⚡ In my free time I like to learn new things</p>
 
 ###
 
