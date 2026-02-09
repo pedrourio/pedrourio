@@ -94,7 +94,7 @@ I'm a Software Development student at UDESC Joinville, passionate about building
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrourio&theme=dracula" height="200" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrourio&theme=dracula" height="200" alt="languages graph" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=pedrourio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
